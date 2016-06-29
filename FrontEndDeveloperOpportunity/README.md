@@ -60,5 +60,5 @@ What a source.json looks like:
 - You're more then welcome to pick font-size/font-family that looks as much as possible to one provided in mockup.jpg
 - Keep your code clean and nicely organized
 - Commenting code is always welcome :)
-- Keep in mind that is mush be responsive
+- Keep in mind that it must be responsive
 - Try always to fully complete the test before sending it in ;)
