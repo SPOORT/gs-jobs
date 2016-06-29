@@ -16,8 +16,14 @@ so it's easy to build SEO friendly routes (that will include usage of .htaccess 
 #### ``` GET /about-us ```
   * Content is not relevant (can be empty)
    
+- Language in which it should be developed is PHP!
 - Have in mind you should prevent any kind of form/DB injection or cross-side scripting (XSS)
 - Routing should be separate file, so it's possible easily to add more routes, e.g. if we would like to add new route /jobs, by adding route and needed controller/model/view we could extend framework
 - Keep your code clean and nicely organized
 - Commenting code is always welcome :)
 - Try always to fully complete the test before sending it in ;)
+
+### How should I apply for this? 
+
+Easy, just do the test, add it on your own GitHub repo and send us a link to an email on: tech@gospoort.com
+

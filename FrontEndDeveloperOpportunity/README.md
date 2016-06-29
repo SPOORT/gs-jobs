@@ -62,3 +62,7 @@ What a source.json looks like:
 - Commenting code is always welcome :)
 - Keep in mind that it must be responsive
 - Try always to fully complete the test before sending it in ;)
+
+### How should I apply for this? 
+
+Easy, just do the test, add it on your own GitHub repo and send us a link to an email on: tech@gospoort.com
